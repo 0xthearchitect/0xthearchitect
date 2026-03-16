@@ -120,16 +120,16 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
 
 <p align="center">
   <a href="https://0xthearchitect.github.io">
-    <img src="assets/insta.png" alt="logo"/>
+    <img src="assets/insta.png" width="120"/>
   </a>
 </p>
 <p align="center">
   <a href="https://0xthearchitect.github.io">
-    <img src="assets/linkedin.png" alt="logo"/>
+    <img src="assets/linkedin.png" width="120"/>
   </a>
 </p>
 <p align="center">
   <a href="https://0xthearchitect.github.io">
-    <img src="assets/website.png" alt="logo"/>
+    <img src="assets/website.png" width="120"/>
   </a>
 </p>
