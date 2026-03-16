@@ -119,17 +119,17 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
 # Connect Me
 
 <p align="center">
-  <a href="https://0xthearchitect.github.io">
-    <img src="assets/insta.png"/>
+  <a href="https://www.instagram.com/0xthearchitect">
+    <img src="assets/insta.png" width="350"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/0xthearchitect">
+    <img src="assets/linkedin.png" width="350"/>
   </a>
 </p>
 <p align="center">
   <a href="https://0xthearchitect.github.io">
-    <img src="assets/linkedin.png"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://0xthearchitect.github.io">
-    <img src="assets/website.png"/>
+    <img src="assets/website.png" width="350"/>
   </a>
 </p>
