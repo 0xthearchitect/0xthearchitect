@@ -36,7 +36,7 @@ Building things, breaking systems, and learning from the chaos.
     <img src="assets/natabase.png" height="120"/>
   </a>
   <a href="https://github.com/0xadamastor/C.A.L.M.A.">
-    <img src="assets/calma.png" height="90"/>
+    <img src="assets/calma.png" height="70"/>
   </a>
   <a href="https://github.com/Samucahub/cromometro">
     <img src="assets/cromometro.png" height="120"/>
