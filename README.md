@@ -119,5 +119,7 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
 # Connect Me
 
 <p align="center">
-  <img src="assets/connect.png" alt="logo"/>
+  <a href="https://0xthearchitect.github.io">
+    <img src="assets/connect.png" alt="logo"/>
+  </a>
 </p>
