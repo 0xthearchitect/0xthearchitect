@@ -32,16 +32,16 @@ Building things, breaking systems, and learning from the chaos.
 # Projects
 
 <p align="center">
-  <a href="https://github.com/Samucahub/NataBase">
+  <a href="https://github.com/0xtheartchitect/NataBase">
     <img src="assets/natabase.png" height="120"/>
   </a>
   <a href="https://github.com/0xadamastor/C.A.L.M.A.">
     <img src="assets/calma.png" height="70"/>
   </a>
-  <a href="https://github.com/Samucahub/cromometro">
+  <a href="https://github.com/0xtheartchitect/cromometro">
     <img src="assets/cromometro.png" height="120"/>
   </a>
-  <a href="https://github.com/Samucahub/mimic">
+  <a href="https://github.com/0xtheartchitect/mimic">
     <img src="assets/mimic.png" height="120"/>
   </a>
 </p>
@@ -50,7 +50,9 @@ Building things, breaking systems, and learning from the chaos.
 ### But... what is this?
 
 <p align="center">
-  <img src="assets/beatrooter.png" alt="logo"/>
+  <a href="https://github.com/0xtheartchitect/beatrooter">
+    <img src="assets/beatrooter.png" alt="logo"/>
+  </a>
 </p>
 
 # Team
