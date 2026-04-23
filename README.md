@@ -106,7 +106,7 @@ My favorite Q&A 💋
 </td>
 <td>
 
-<b>ManWithThatHat</b>
+<b>Zero0dot0ne</b>
 
 There’s no one more creative than this guy (there probably is, but he’s on my team so I have to hype my team up 🙃).
 He’s also the creator of our name, logos, and most of the designs we use on our websites and apps.
