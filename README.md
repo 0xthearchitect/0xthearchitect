@@ -100,7 +100,7 @@ My favorite Q&A 💋
 
 <tr>
 <td width="150">
-<a href="https://github.com/Zero0dot0ne">
+<a href="https://github.com/Zero0d0t0ne">
   <img src="https://github.com/Zero0dot0ne.png" width="120">
 </a>
 </td>
