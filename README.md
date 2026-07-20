@@ -9,7 +9,13 @@ Building things, breaking systems, and learning from the chaos.
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111?style=for-the-badge&logo=hackthebox)
-![Arch](https://img.shields.io/badge/Arch_Linux-111?style=for-the-badge&logo=arch-linux)
+
+And passionate about building software, exploring new technologies, and turning ideas into reality.
+
+![Rust](https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/C%2B%2B-111?style=for-the-badge&logo=c%2B%2B)
 
 ---
 
