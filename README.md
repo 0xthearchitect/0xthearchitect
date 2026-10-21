@@ -144,7 +144,7 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
 # Connect Me
 
 <p align="center">
-  <table width="500" cellpadding="18" cellspacing="0" border="1" bordercolor="#d0d7de" bgcolor="#ffffff">
+  <table width="500" cellpadding="18" cellspacing="0" border="1" bordercolor="#30363d" bgcolor="#0d1117">
     <tr>
       <td align="center" valign="middle">
         <a href="https://www.instagram.com/0xthearchitect">
@@ -152,14 +152,14 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.instagram.com/0xthearchitect"><b>@0xthearchitect</b></a>
+        <a href="https://www.instagram.com/0xthearchitect" style="color:#c9d1d9; text-decoration:none;"><b>@0xthearchitect</b></a>
       </td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <table width="500" cellpadding="18" cellspacing="0" border="1" bordercolor="#d0d7de" bgcolor="#ffffff">
+  <table width="500" cellpadding="18" cellspacing="0" border="1" bordercolor="#30363d" bgcolor="#0d1117">
     <tr>
       <td align="center" valign="middle">
         <a href="https://www.linkedin.com/in/0xthearchitect">
@@ -167,14 +167,14 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.linkedin.com/in/0xthearchitect"><b>@0xthearchitect</b></a>
+        <a href="https://www.linkedin.com/in/0xthearchitect" style="color:#c9d1d9; text-decoration:none;"><b>@0xthearchitect</b></a>
       </td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <table width="500" cellpadding="18" cellspacing="0" border="1" bordercolor="#d0d7de" bgcolor="#ffffff">
+  <table width="500" cellpadding="18" cellspacing="0" border="1" bordercolor="#30363d" bgcolor="#0d1117">
     <tr>
       <td align="center" valign="middle">
         <a href="https://0xthearchitect.github.io">
@@ -182,7 +182,7 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://0xthearchitect.github.io"><b>0xthearchitect.dev</b></a>
+        <a href="https://0xthearchitect.github.io" style="color:#c9d1d9; text-decoration:none;"><b>0xthearchitect.dev</b></a>
       </td>
     </tr>
   </table>
