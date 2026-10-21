@@ -158,8 +158,8 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
 <p align="center">
   <a href="https://0xthearchitect.github.io">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/github.png" width="500">
-      <img src="assets/github-light.png" width="500"/>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/website.png" width="500">
+      <img src="assets/website-light.png" width="500"/>
     </picture>
   </a>
 </p>
