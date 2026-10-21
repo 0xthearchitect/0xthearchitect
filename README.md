@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="assets/thearchitect.png" alt="logo"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/thearchitect.png">
+    <img src="assets/thearchitect-light.png" alt="logo">
+  </picture>
 </p>
+
 
 ### Hey 👋
 
@@ -23,15 +27,23 @@ And passionate about building software, exploring new technologies, and turning 
 
 > **If I had to describe myself in one sentence...**
 
+
 <p align="center">
-  <img src="assets/chaosengineer.png" alt="logo"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chaosengineer.png">
+    <img src="assets/chaosengineer-light.png" alt="logo">
+  </picture>
 </p>
+
 
 
 # Skills
 
 <p align="center">
-  <img src="assets/mytoys.png" alt="logo"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mytoys.png">
+    <img src="assets/mytoys-light.png" alt="logo">
+  </picture>
 </p>
 
 
@@ -56,9 +68,10 @@ And passionate about building software, exploring new technologies, and turning 
 ### But... what is this?
 
 <p align="center">
-  <a href="https://github.com/0xthearchitect/beatrooter">
-    <img src="assets/beatrooter.png" alt="logo"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/beatrooter.png">
+    <img src="assets/beatrooter-light.png" alt="logo">
+  </picture>
 </p>
 
 # Team
@@ -128,16 +141,25 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
 
 <p align="center">
   <a href="https://www.instagram.com/0xthearchitect">
-    <img src="assets/insta.png" width="500"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/insta.png" width="500">
+      <img src="assets/insta-light.png" width="500"/>
+    </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/0xthearchitect">
-    <img src="assets/linkedin.png" width="500"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin.png" width="500">
+      <img src="assets/linkedin-light.png" width="500"/>
+    </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://0xthearchitect.github.io">
-    <img src="assets/website.png" width=500"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/github.png" width="500">
+      <img src="assets/github-light.png" width="500"/>
+    </picture>
   </a>
 </p>
