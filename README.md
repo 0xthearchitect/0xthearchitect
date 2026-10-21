@@ -1,6 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/thearchitect.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/thearchitect-light.png">
     <img src="assets/thearchitect-light.png" alt="logo">
   </picture>
 </p>
@@ -31,6 +32,7 @@ And passionate about building software, exploring new technologies, and turning 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/chaosengineer.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chaosengineer-light.png">
     <img src="assets/chaosengineer-light.png" alt="logo">
   </picture>
 </p>
@@ -42,6 +44,7 @@ And passionate about building software, exploring new technologies, and turning 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/mytoys.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/mytoys-light.png">
     <img src="assets/mytoys-light.png" alt="logo">
   </picture>
 </p>
@@ -70,6 +73,7 @@ And passionate about building software, exploring new technologies, and turning 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/beatrooter.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/beatrooter-light.png">
     <img src="assets/beatrooter-light.png" alt="logo">
   </picture>
 </p>
@@ -143,6 +147,7 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
   <a href="https://www.instagram.com/0xthearchitect">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/insta.png" width="500">
+      <source media="(prefers-color-scheme: light)" srcset="assets/insta-light.png" width="500">
       <img src="assets/insta-light.png" width="500"/>
     </picture>
   </a>
@@ -151,6 +156,7 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
   <a href="https://www.linkedin.com/in/0xthearchitect">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin.png" width="500">
+      <source media="(prefers-color-scheme: light)" srcset="assets/linkedin-light.png" width="500">
       <img src="assets/linkedin-light.png" width="500"/>
     </picture>
   </a>
@@ -159,6 +165,7 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
   <a href="https://0xthearchitect.github.io">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/website.png" width="500">
+      <source media="(prefers-color-scheme: light)" srcset="assets/website-light.png" width="500">
       <img src="assets/website-light.png" width="500"/>
     </picture>
   </a>
