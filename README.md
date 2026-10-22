@@ -144,46 +144,17 @@ Metal is for grown-ups, but my little Zézinho is the exception. 🤘
 # Connect Me
 
 <p align="center">
-  <table width="500" cellpadding="18" cellspacing="0" border="1" bordercolor="#30363d" bgcolor="#0d1117">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.instagram.com/0xthearchitect">
-          <img src="assets/insta.png" width="52" alt="Instagram">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.instagram.com/0xthearchitect" style="color:#c9d1d9; text-decoration:none;"><b>@0xthearchitect</b></a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.instagram.com/0xthearchitect">
+    <img src="assets/insta.png" width="52" alt="Instagram">
+  </a>
 </p>
-
 <p align="center">
-  <table width="500" cellpadding="18" cellspacing="0" border="1" bordercolor="#30363d" bgcolor="#0d1117">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://www.linkedin.com/in/0xthearchitect">
-          <img src="assets/linkedin.png" width="52" alt="LinkedIn">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.linkedin.com/in/0xthearchitect" style="color:#c9d1d9; text-decoration:none;"><b>@0xthearchitect</b></a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/0xthearchitect">
+    <img src="assets/linkedin.png" width="52" alt="LinkedIn">
+  </a>
 </p>
-
 <p align="center">
-  <table width="500" cellpadding="18" cellspacing="0" border="1" bordercolor="#30363d" bgcolor="#0d1117">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://0xthearchitect.github.io">
-          <img src="assets/website.png" width="52" alt="Website">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://0xthearchitect.github.io" style="color:#c9d1d9; text-decoration:none;"><b>0xthearchitect.dev</b></a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://0xthearchitect.github.io">
+    <img src="assets/website.png" width="52" alt="Website">
+  </a>
 </p>
